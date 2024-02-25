@@ -16,3 +16,10 @@ To read the semantic HTML, inspect the page using Chrome Dev Tools to see the co
 
 N/A
 
+## Screenshot and Link
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+https://pauldsherrill.github.io/homework-1/gi
