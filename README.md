@@ -22,4 +22,4 @@ N/A
 
 ![alt text](image-1.png)
 
-https://pauldsherrill.github.io/homework-1/gi
+https://pauldsherrill.github.io/homework-1/
